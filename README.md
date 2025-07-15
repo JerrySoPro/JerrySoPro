@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on data analysis projects and system programming tools<br><br>🌱 I'm currently learning advanced data science techniques and systems programming<br><br>👯 I'm looking to collaborate on open-source projects related to data science and system utilities<br><br>💬 Ask me about Python, C++, JavaScript, data science, and systems programming<br><br>📫 How to reach me GitHub: @JerrySoPro<br><br>⚡ Fun fact I'm a Computer Science & Engineering student at BRAC University with a passion for both data analysis and low-level programming!
+🔭 I'm currently working on data analysis projects and learning system programming tools<br><br>🌱 I'm currently learning advanced data science techniques and systems programming<br><br>👯 I'm looking to collaborate on open-source projects related to data science and system utilities<br><br>💬 Ask me about Python, C++, JavaScript, data science, and systems programming<br><br>📫 How to reach me GitHub: @JerrySoPro<br><br>⚡ Fun fact I'm a Computer Science & Engineering student at BRAC University with a passion for both data analysis and low-level programming!
 
 
 # 💻 Tech Stack:
