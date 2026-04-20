@@ -19,10 +19,10 @@ Based in Dhaka, Bangladesh | Class of '26 <br>
 
 - **Current Role:** Computer Science Student.
 - **Homelab:** Actively building and maintaining my own infrastructure (Armbian on a TX3 Mini) with automated CI/CD pipelines via GitHub Actions.
-- **Exploring:** Advanced DevOps, decentralized apps (like the *HumanitarianEscrow-DApp*), and AI Image Generation (ComfyUI).
+- **Exploring:** Advanced DevOps, decentralized apps and AI Image Generation.
 - **Recent Shipping:** Developed **Xpensive**, a personal budget tracker using Flutter and Firebase.
 - **Background:** I bring a creative edge from my past professional experience as a freelance Video Editor & Producer.
-- **Automation:** I love automating workflows, from hardware (Arduino-based power monitoring) to software (custom Discord bots like `THIS IS RAB`).
+- **Automation:** I love automating workflows, from hardware (Arduino-based power monitoring) to software.
 
 ---
 
