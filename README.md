@@ -47,7 +47,7 @@ Based in Dhaka, Bangladesh | Class of '26 <br>
 
 ### Let's Connect
 
-<a href="https://jerrysopro.dev/">
+<a href="https://rakibs.codes/">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=dev.to&logoColor=36BCF7" alt="Website" />
 </a>
 <a href="mailto:your.email@example.com">
