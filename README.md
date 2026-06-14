@@ -2,8 +2,8 @@
 
 # Hi, I'm Rakib Rahman Rimon
 
-<a href="https://jerrysopro.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;DevOps+%26+Cloud+Enthusiast;CS+Undergrad+%40+BRACU;Building+jerrysopro.dev" alt="Typing SVG" />
+<a href="https://rakibs.codes/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;DevOps+%26+Cloud+Enthusiast;CS+Undergrad+%40+BRACU;Building+vent.rakibs.codes" alt="Typing SVG" />
 </a>
 
 <p>
