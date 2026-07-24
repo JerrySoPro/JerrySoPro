@@ -1,0 +1,534 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1180 610" width="1180" height="610" fill="none" role="img" aria-label="Rakib Rahman Rimon - developer profile banner">
+<title>Rakib Rahman Rimon - Frontend Engineer / Full Stack Developer / Systems Programming Nerd / Open Source Contributor / AI Enthusiast</title>
+<defs>
+<radialGradient id="pageBg" cx="50%" cy="0%" r="120%">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="100%" stop-color="#01030A"/>
+    </radialGradient>
+<linearGradient id="panelG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#131C31"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+<linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="452" y1="120" x2="1052" y2="200">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#10B981"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-160 0;160 0;-160 0" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+<linearGradient id="asciiG" gradientUnits="userSpaceOnUse" x1="60" y1="80" x2="420" y2="440">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="45%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#10B981"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 -140;0 140;0 -140" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+<linearGradient id="shimmer" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="0" y2="610">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#22D3EE" stop-opacity="0.85"/>
+      <stop offset="55%" stop-color="#7C3AED" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1700 0;0 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+<radialGradient id="blobA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#7C3AED" stop-opacity="0.112"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+<radialGradient id="blobB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#22D3EE" stop-opacity="0.112"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+<radialGradient id="blobC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#10B981" stop-opacity="0.112"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="92%" stop-color="#22D3EE" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.07"/>
+      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0.018"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+<linearGradient id="sheen" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="260" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.077"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+<filter id="noise" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="3" stitchTiles="stitch" result="n"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+<filter id="glowSm" x="-80%" y="-80%" width="260%" height="260%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#22D3EE" flood-opacity="0.55"/>
+    </filter>
+<filter id="glowLg" x="-60%" y="-60%" width="220%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#7C3AED" flood-opacity="0.44"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="18" flood-color="#22D3EE" flood-opacity="0.275"/>
+    </filter>
+<filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+<clipPath id="clipCard"><rect x="8" y="8" width="1164" height="594" rx="26"/></clipPath>
+<clipPath id="clipLeft"><rect x="28" y="28" width="408" height="554" rx="18"/></clipPath>
+<clipPath id="clipRight"><rect x="452" y="28" width="700" height="554" rx="18"/></clipPath>
+<clipPath id="tc0">
+        <rect x="522" y="190" height="32" width="0">
+          <animate attributeName="width" values="0;0;226.4;226.4;0;0" keyTimes="0;0;0.088;0.165;0.2;1" dur="13s" begin="2.1s" repeatCount="indefinite" fill="freeze"/>
+        </rect>
+      </clipPath>
+<clipPath id="tc1">
+        <rect x="522" y="190" height="32" width="0">
+          <animate attributeName="width" values="0;0;266;266;0;0" keyTimes="0;0.2;0.288;0.365;0.4;1" dur="13s" begin="2.1s" repeatCount="indefinite" fill="freeze"/>
+        </rect>
+      </clipPath>
+<clipPath id="tc2">
+        <rect x="522" y="190" height="32" width="0">
+          <animate attributeName="width" values="0;0;318.8;318.8;0;0" keyTimes="0;0.4;0.488;0.565;0.6;1" dur="13s" begin="2.1s" repeatCount="indefinite" fill="freeze"/>
+        </rect>
+      </clipPath>
+<clipPath id="tc3">
+        <rect x="522" y="190" height="32" width="0">
+          <animate attributeName="width" values="0;0;305.6;305.6;0;0" keyTimes="0;0.6;0.688;0.765;0.8;1" dur="13s" begin="2.1s" repeatCount="indefinite" fill="freeze"/>
+        </rect>
+      </clipPath>
+<clipPath id="tc4">
+        <rect x="522" y="190" height="32" width="0">
+          <animate attributeName="width" values="0;0;173.6;173.6;0;0" keyTimes="0;0.8;0.888;0.965;1;1" dur="13s" begin="2.1s" repeatCount="indefinite" fill="freeze"/>
+        </rect>
+      </clipPath>
+<style>
+    .pill{transition:transform .22s ease, filter .22s ease;transform-box:fill-box;transform-origin:center}
+    .pill:hover{transform:scale(1.07);filter:url(#glowSm)}
+    .soc{transition:transform .22s ease;transform-box:fill-box;transform-origin:center}
+    .soc:hover{transform:translateY(-2px) scale(1.12)}
+  </style>
+</defs>
+<g clip-path="url(#clipCard)">
+<rect x="8" y="8" width="1164" height="594" fill="url(#pageBg)"/>
+<g>
+      <circle cx="180" cy="120" r="300" fill="url(#blobA)">
+        <animateTransform attributeName="transform" type="translate" values="0 0;60 40;-30 60;0 0" dur="18s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="300;340;300" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="820" cy="520" r="320" fill="url(#blobB)">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-70 -50;40 -20;0 0" dur="22s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="320;280;320" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1120" cy="90" r="240" fill="url(#blobC)">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-50 60;20 20;0 0" dur="26s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+<g><circle cx="1009.903" cy="495.981" r="2.046" fill="#7C3AED" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="19.298s" begin="3.38s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-10.365 -104.353" dur="19.298s" begin="6.727s" repeatCount="indefinite"/>
+    </circle><circle cx="546.873" cy="494.358" r="0.953" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="10.171s" begin="0.054s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;1.689 -97.961" dur="10.171s" begin="3.436s" repeatCount="indefinite"/>
+    </circle><circle cx="272.193" cy="233.199" r="1.329" fill="#10B981" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="18.799s" begin="1.862s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;12.235 -80.226" dur="18.799s" begin="6.699s" repeatCount="indefinite"/>
+    </circle><circle cx="122.318" cy="564.276" r="0.807" fill="#7C3AED" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="16.323s" begin="7.307s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-1.53 -117.133" dur="16.323s" begin="3.394s" repeatCount="indefinite"/>
+    </circle><circle cx="300.775" cy="303.028" r="2.029" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="11.632s" begin="1.09s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;5.535 -115.53" dur="11.632s" begin="1.058s" repeatCount="indefinite"/>
+    </circle><circle cx="1104.558" cy="115.818" r="2.204" fill="#10B981" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="13.755s" begin="0.546s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;12.027 -75.218" dur="13.755s" begin="1.67s" repeatCount="indefinite"/>
+    </circle><circle cx="698.035" cy="424.759" r="0.712" fill="#7C3AED" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="18.785s" begin="3.381s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-6.148 -76.546" dur="18.785s" begin="3.608s" repeatCount="indefinite"/>
+    </circle><circle cx="275.869" cy="67.484" r="0.724" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="13.615s" begin="7.138s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;1.656 -104.859" dur="13.615s" begin="3.425s" repeatCount="indefinite"/>
+    </circle><circle cx="237.817" cy="42.61" r="0.913" fill="#10B981" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="13.349s" begin="1.114s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;12.482 -54.45" dur="13.349s" begin="7.234s" repeatCount="indefinite"/>
+    </circle><circle cx="239.727" cy="224.477" r="2.158" fill="#7C3AED" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="11.014s" begin="0.719s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-0.868 -113.426" dur="11.014s" begin="5.073s" repeatCount="indefinite"/>
+    </circle><circle cx="310.093" cy="179.061" r="1.634" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="9.17s" begin="1.069s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-14.445 -121.464" dur="9.17s" begin="6.54s" repeatCount="indefinite"/>
+    </circle><circle cx="831.924" cy="253.723" r="2.257" fill="#10B981" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="18.254s" begin="4.063s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-2.725 -70.371" dur="18.254s" begin="1.624s" repeatCount="indefinite"/>
+    </circle><circle cx="1138.959" cy="456.005" r="1.616" fill="#7C3AED" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="17.215s" begin="6.911s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-0.265 -66.439" dur="17.215s" begin="5.596s" repeatCount="indefinite"/>
+    </circle><circle cx="342.999" cy="289.683" r="1.065" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="13.398s" begin="4.263s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-6.72 -122.195" dur="13.398s" begin="7.824s" repeatCount="indefinite"/>
+    </circle><circle cx="694.337" cy="352.18" r="2.125" fill="#10B981" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="20.708s" begin="0.554s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;7.155 -105.495" dur="20.708s" begin="4.372s" repeatCount="indefinite"/>
+    </circle><circle cx="711.071" cy="443.445" r="2.084" fill="#7C3AED" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="10.428s" begin="1.235s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;9.202 -55.183" dur="10.428s" begin="5.319s" repeatCount="indefinite"/>
+    </circle><circle cx="455.852" cy="481.8" r="0.9" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="17.683s" begin="2.888s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;4.41 -122.609" dur="17.683s" begin="6.726s" repeatCount="indefinite"/>
+    </circle><circle cx="908.785" cy="368.762" r="1.181" fill="#10B981" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="10.178s" begin="0.812s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;10.992 -96.893" dur="10.178s" begin="3.727s" repeatCount="indefinite"/>
+    </circle><circle cx="1036.907" cy="330.832" r="1.03" fill="#7C3AED" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="10.876s" begin="5.772s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-11.573 -121.095" dur="10.876s" begin="1.623s" repeatCount="indefinite"/>
+    </circle><circle cx="971.465" cy="155.301" r="1.127" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="12.28s" begin="3.325s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-14.162 -46.387" dur="12.28s" begin="7.074s" repeatCount="indefinite"/>
+    </circle><circle cx="881.885" cy="410.662" r="1.338" fill="#10B981" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="14.907s" begin="1.134s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-13.741 -73.954" dur="14.907s" begin="3.454s" repeatCount="indefinite"/>
+    </circle><circle cx="713.056" cy="94.817" r="2.012" fill="#7C3AED" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="20.025s" begin="5.275s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-10.948 -76.927" dur="20.025s" begin="7.102s" repeatCount="indefinite"/>
+    </circle><circle cx="733.764" cy="259.022" r="1.767" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="9.235s" begin="4.068s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0.828 -59.77" dur="9.235s" begin="3.026s" repeatCount="indefinite"/>
+    </circle><circle cx="902.932" cy="62.247" r="1.669" fill="#10B981" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="14.055s" begin="7.587s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-9.718 -48.13" dur="14.055s" begin="5.396s" repeatCount="indefinite"/>
+    </circle><circle cx="665.468" cy="508.04" r="1.249" fill="#7C3AED" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="14.972s" begin="6.959s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-12.433 -55.019" dur="14.972s" begin="2.717s" repeatCount="indefinite"/>
+    </circle><circle cx="713.375" cy="154.416" r="1.089" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;0.85;0" dur="11.548s" begin="3.611s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;11.672 -63.783" dur="11.548s" begin="4.645s" repeatCount="indefinite"/>
+    </circle></g>
+<rect x="8" y="8" width="1164" height="594" filter="url(#noise)" opacity="0.055"/>
+<rect x="8" width="1164" height="120" y="-120" fill="url(#scan)" opacity="0.248">
+      <animate attributeName="y" values="-120;602;-120" keyTimes="0;0.85;1" dur="9s" repeatCount="indefinite"/>
+    </rect>
+</g>
+<g filter="url(#softShadow)">
+      <rect x="28" y="28" width="408" height="554" rx="18" fill="url(#panelG)" opacity="0.92"/>
+    </g>
+<g clip-path="url(#clipLeft)">
+<rect x="28" y="28" width="408" height="554" fill="url(#glass)" opacity="0.6"/>
+<text x="50" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#64748B" letter-spacing="1.6">~/render --torus --ascii</text>
+<rect x="50" y="70" width="364" height="1" fill="rgba(255,255,255,0.16)"/>
+<g>
+<animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="6.5s" repeatCount="indefinite"/>
+<g xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9.2" fill="url(#asciiG)" filter="url(#glowSm)">
+<g opacity="0"><text x="180" y="253.8" textLength="109.2" lengthAdjust="spacingAndGlyphs">%@@@@@@@@@@@@@@@@@@@%</text><text x="154" y="264.4" textLength="161.2" lengthAdjust="spacingAndGlyphs">#%%%%%@@@@@@@@@@@@@@@@@@@%%%%%#</text><text x="143.6" y="275" textLength="182" lengthAdjust="spacingAndGlyphs">oQQ#########%%%%%%%%%%%#########QQo</text><text x="143.6" y="285.6" textLength="182" lengthAdjust="spacingAndGlyphs">ssooooooQQQQQQQQQQQQQQQQQQQooooooss</text><text x="143.6" y="296.2" textLength="182" lengthAdjust="spacingAndGlyphs">*ccsssssooooooooooooooooooossssscc*</text><text x="143.6" y="306.8" textLength="182" lengthAdjust="spacingAndGlyphs">+**ccccccssssssssssssssssscccccc**+</text><text x="148.8" y="317.4" textLength="171.6" lengthAdjust="spacingAndGlyphs">;~~===+++++++++++++++++++++===~~;</text><text x="159.2" y="328" textLength="150.8" lengthAdjust="spacingAndGlyphs">.,,:::;;;;;;~~~~~;;;;;;:::,,.</text><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0;0.038;0.038;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="195.6" y="222" textLength="93.6" lengthAdjust="spacingAndGlyphs">@@@@@@@%%%%%%%%%%%</text><text x="174.8" y="232.6" textLength="130" lengthAdjust="spacingAndGlyphs">%%%%%%##########QQQQQQQQ#</text><text x="159.2" y="243.2" textLength="156" lengthAdjust="spacingAndGlyphs">#####QQQQQoooooooooooooossssoo</text><text x="154" y="253.8" textLength="166.4" lengthAdjust="spacingAndGlyphs">QoQooosoooooooooossssssssssccc*c</text><text x="148.8" y="264.4" textLength="171.6" lengthAdjust="spacingAndGlyphs">ssssosssssscccc*c******++++++***+</text><text x="143.6" y="275" textLength="176.8" lengthAdjust="spacingAndGlyphs">ccsccccc***++++====~~~~~~;;~;~~~~=</text><text x="143.6" y="285.6" textLength="171.6" lengthAdjust="spacingAndGlyphs">****+++==~~~;;;:::,,,.........,,:</text><text x="143.6" y="296.2" textLength="171.6" lengthAdjust="spacingAndGlyphs">+==~~~;;::,,..o%@@%o*..         .</text><text x="143.6" y="306.8" textLength="124.8" lengthAdjust="spacingAndGlyphs">;;;::,,.. ...:*o##Qs*;..</text><text x="148.8" y="317.4" textLength="119.6" lengthAdjust="spacingAndGlyphs">,...       .:+*soos+~,.</text><text x="206" y="328" textLength="57.2" lengthAdjust="spacingAndGlyphs">.:~++*+=:..</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.038;0.038;0.077;0.077;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="190.4" y="211.4" textLength="83.2" lengthAdjust="spacingAndGlyphs">@@@%%%%%%%%%%%%%</text><text x="174.8" y="222" textLength="114.4" lengthAdjust="spacingAndGlyphs">%%%###QQQQQoooooooQQQ#</text><text x="164.4" y="232.6" textLength="135.2" lengthAdjust="spacingAndGlyphs">##QQQoooooooooosssoossssoo</text><text x="154" y="243.2" textLength="150.8" lengthAdjust="spacingAndGlyphs">oQQooooooosscc*********ccsscs</text><text x="148.8" y="253.8" textLength="156" lengthAdjust="spacingAndGlyphs">sosooosscc**+==~~~;;;~~~=++*c*</text><text x="148.8" y="264.4" textLength="161.2" lengthAdjust="spacingAndGlyphs">sssscc**++=~;::,.   ...,:;~=+*+</text><text x="143.6" y="275" textLength="166.4" lengthAdjust="spacingAndGlyphs">*ccc***+=~;:,.           .,:;~=+</text><text x="143.6" y="285.6" textLength="166.4" lengthAdjust="spacingAndGlyphs">****++==;:,.         .   ..,:;~~</text><text x="143.6" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">++++==~;:,...       *.....,::;;</text><text x="143.6" y="306.8" textLength="161.2" lengthAdjust="spacingAndGlyphs">~===~~;;:,...~coQ%%#Qs~;;;;;;;:</text><text x="148.8" y="317.4" textLength="150.8" lengthAdjust="spacingAndGlyphs">;~~~~;;::,,:+sQ%@@%#oc*==~~;,</text><text x="154" y="328" textLength="135.2" lengthAdjust="spacingAndGlyphs">:;;;;;;;;~=*coQQ#Qoos*+=~:</text><text x="164.4" y="338.6" textLength="114.4" lengthAdjust="spacingAndGlyphs">,:::;;~=+*cssssoosc+~,</text><text x="180" y="349.2" textLength="83.2" lengthAdjust="spacingAndGlyphs">.,::;~==++*++~;.</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.077;0.077;0.115;0.115;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="216.4" y="211.4" textLength="31.2" lengthAdjust="spacingAndGlyphs">@@@@@@</text><text x="190.4" y="222" textLength="83.2" lengthAdjust="spacingAndGlyphs">%%%%#########%%%</text><text x="174.8" y="232.6" textLength="114.4" lengthAdjust="spacingAndGlyphs">#%##QQooooooooooooQ###</text><text x="164.4" y="243.2" textLength="135.2" lengthAdjust="spacingAndGlyphs">Q##QoooooosssccsssoooooQQQ</text><text x="159.2" y="253.8" textLength="145.6" lengthAdjust="spacingAndGlyphs">QQQoooosc**+=~~~~=+*ccsoooQo</text><text x="154" y="264.4" textLength="156" lengthAdjust="spacingAndGlyphs">sooooosc*+~;:,   .,;~+*cssooos</text><text x="154" y="275" textLength="156" lengthAdjust="spacingAndGlyphs">soooosc*+~:.       .:;=*ccsoss</text><text x="148.8" y="285.6" textLength="161.2" lengthAdjust="spacingAndGlyphs">+ssossc*+=;.         .;=+*cssss</text><text x="148.8" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">+ssssscc*=;,        ;:~+*cssssc</text><text x="154" y="306.8" textLength="156" lengthAdjust="spacingAndGlyphs">csssssccsscc=     csoooosssss*</text><text x="154" y="317.4" textLength="156" lengthAdjust="spacingAndGlyphs">+ccssssoooQQ###%%%%%##Qoosssc+</text><text x="159.2" y="328" textLength="145.6" lengthAdjust="spacingAndGlyphs">+*csssooQ##%%@@@@@%##Qoossc+</text><text x="164.4" y="338.6" textLength="135.2" lengthAdjust="spacingAndGlyphs">=*ccssoooQ##%%%%#QQQoooc*=</text><text x="169.6" y="349.2" textLength="124.8" lengthAdjust="spacingAndGlyphs">:=+ccssoooooooooooooc*=:</text><text x="180" y="359.8" textLength="98.8" lengthAdjust="spacingAndGlyphs">.;=+*ccsssoosssc*=;</text><text x="200.8" y="370.4" textLength="57.2" lengthAdjust="spacingAndGlyphs">.:;~~~~~~;:</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.115;0.115;0.154;0.154;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="226.8" y="222" textLength="41.6" lengthAdjust="spacingAndGlyphs">@@@@@@@@</text><text x="200.8" y="232.6" textLength="93.6" lengthAdjust="spacingAndGlyphs">%%###QQQQ##%%@@@@#</text><text x="190.4" y="243.2" textLength="114.4" lengthAdjust="spacingAndGlyphs">##QossosossssoQ##%%%%%</text><text x="180" y="253.8" textLength="130" lengthAdjust="spacingAndGlyphs">##Qooosc*****csssoQ##%%%%</text><text x="174.8" y="264.4" textLength="140.4" lengthAdjust="spacingAndGlyphs">QQQooc*=~;:,:;~+*csoQ######</text><text x="169.6" y="275" textLength="150.8" lengthAdjust="spacingAndGlyphs">QQQQQoc+~,      :=*csQQ#####Q</text><text x="164.4" y="285.6" textLength="161.2" lengthAdjust="spacingAndGlyphs">sQ###Qoc=;        ;+coQQ####Qoc</text><text x="164.4" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">sQ#####Qs+        +cooQQ##QQQo*</text><text x="164.4" y="306.8" textLength="161.2" lengthAdjust="spacingAndGlyphs">cQ#%%%%%#Q*      cooQQQQQQQQos*</text><text x="164.4" y="317.4" textLength="156" lengthAdjust="spacingAndGlyphs">*sQ#%@@@@@%%QQQQQQQ###QQQQooos</text><text x="164.4" y="328" textLength="156" lengthAdjust="spacingAndGlyphs">=csQ#%@@@@@@@%%%#####QQoooosc+</text><text x="169.6" y="338.6" textLength="145.6" lengthAdjust="spacingAndGlyphs">+ssoQ#%%%%%%%%###QQQooooosc+</text><text x="174.8" y="349.2" textLength="135.2" lengthAdjust="spacingAndGlyphs">=cssooQQQ##QQQQoooooossc+=</text><text x="180" y="359.8" textLength="124.8" lengthAdjust="spacingAndGlyphs">,+cssoosoooooooosscc*+~.</text><text x="195.6" y="370.4" textLength="93.6" lengthAdjust="spacingAndGlyphs">;=**cccccccc*++=~:</text><text x="216.4" y="381" textLength="52" lengthAdjust="spacingAndGlyphs">,;;;;;;;:,</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.154;0.154;0.192;0.192;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="232" y="222" textLength="57.2" lengthAdjust="spacingAndGlyphs">%##%%%@@@@@</text><text x="216.4" y="232.6" textLength="88.4" lengthAdjust="spacingAndGlyphs">QossssoQ#%%@@@@@%</text><text x="206" y="243.2" textLength="109.2" lengthAdjust="spacingAndGlyphs">os**+==+csoQ#%%%@@%%Q</text><text x="200.8" y="253.8" textLength="119.6" lengthAdjust="spacingAndGlyphs">sc**=~~=~+csQQ#%%%%%%#Q</text><text x="195.6" y="264.4" textLength="124.8" lengthAdjust="spacingAndGlyphs">ssc+;,. .;=*soQ###%%%##Q</text><text x="190.4" y="275" textLength="135.2" lengthAdjust="spacingAndGlyphs">oos*=:.   .=csoQQ######QQs</text><text x="185.2" y="285.6" textLength="140.4" lengthAdjust="spacingAndGlyphs">sQ#Qc*=:.   +cooQQ#####QQoc</text><text x="185.2" y="296.2" textLength="140.4" lengthAdjust="spacingAndGlyphs">Q%%%%#o=.  +csooQQQQQQQQosc</text><text x="180" y="306.8" textLength="145.6" lengthAdjust="spacingAndGlyphs">+Q%@@@@#o  *csoooQQQQooooss*</text><text x="180" y="317.4" textLength="145.6" lengthAdjust="spacingAndGlyphs">+Q%@@%#Qsccssoooooooooooosc=</text><text x="180" y="328" textLength="140.4" lengthAdjust="spacingAndGlyphs">=sQ###Qosssssooooooooosscc+</text><text x="185.2" y="338.6" textLength="130" lengthAdjust="spacingAndGlyphs">+sooooosssssssssosssscc*=</text><text x="185.2" y="349.2" textLength="124.8" lengthAdjust="spacingAndGlyphs">+**csssccccssssssccc**+~</text><text x="190.4" y="359.8" textLength="114.4" lengthAdjust="spacingAndGlyphs">=****ccccccccc****+=~,</text><text x="195.6" y="370.4" textLength="98.8" lengthAdjust="spacingAndGlyphs">,~=+*****+++++==~;,</text><text x="211.2" y="381" textLength="67.6" lengthAdjust="spacingAndGlyphs">:;~~~~~~;;;:.</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.192;0.192;0.231;0.231;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="226.8" y="211.4" textLength="46.8" lengthAdjust="spacingAndGlyphs">#%%@@@@@@</text><text x="216.4" y="222" textLength="67.6" lengthAdjust="spacingAndGlyphs">coQ#%%@@@@@%#</text><text x="216.4" y="232.6" textLength="72.8" lengthAdjust="spacingAndGlyphs">*sQ##%%%%%%%##</text><text x="211.2" y="243.2" textLength="83.2" lengthAdjust="spacingAndGlyphs">:*sQQ##%%%%%##Qo</text><text x="211.2" y="253.8" textLength="88.4" lengthAdjust="spacingAndGlyphs">.*soQ#########Qoc</text><text x="206" y="264.4" textLength="93.6" lengthAdjust="spacingAndGlyphs">;:*soQQQ#####QQQoc</text><text x="206" y="275" textLength="93.6" lengthAdjust="spacingAndGlyphs">~=*sooQQQQQQQQQosc</text><text x="206" y="285.6" textLength="93.6" lengthAdjust="spacingAndGlyphs">==*csoooQQQQooosc*</text><text x="206" y="296.2" textLength="93.6" lengthAdjust="spacingAndGlyphs">o+*cssooooooooosc+</text><text x="200.8" y="306.8" textLength="98.8" lengthAdjust="spacingAndGlyphs">~Q+*ccssoooooossc*+</text><text x="200.8" y="317.4" textLength="98.8" lengthAdjust="spacingAndGlyphs">*~+*ccsssssssssc*+~</text><text x="200.8" y="328" textLength="93.6" lengthAdjust="spacingAndGlyphs">*~+**ccccsccccc*+=</text><text x="200.8" y="338.6" textLength="93.6" lengthAdjust="spacingAndGlyphs">;~++***ccccc***+=;</text><text x="200.8" y="349.2" textLength="88.4" lengthAdjust="spacingAndGlyphs">;~=+++*****+++=~;</text><text x="200.8" y="359.8" textLength="83.2" lengthAdjust="spacingAndGlyphs">;~~===++++===~;:</text><text x="206" y="370.4" textLength="72.8" lengthAdjust="spacingAndGlyphs">:;~~~~~~~~~;:.</text><text x="211.2" y="381" textLength="52" lengthAdjust="spacingAndGlyphs">.,:::::::,</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.231;0.231;0.269;0.269;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="195.6" y="211.4" textLength="46.8" lengthAdjust="spacingAndGlyphs">@@@@@@%%#</text><text x="185.2" y="222" textLength="67.6" lengthAdjust="spacingAndGlyphs">#%@@@@@%%#Qoc</text><text x="180" y="232.6" textLength="72.8" lengthAdjust="spacingAndGlyphs">##%%%%%%%##Qs*</text><text x="174.8" y="243.2" textLength="83.2" lengthAdjust="spacingAndGlyphs">oQ##%%%%%##QQs*:</text><text x="169.6" y="253.8" textLength="88.4" lengthAdjust="spacingAndGlyphs">coQ#########Qos*.</text><text x="169.6" y="264.4" textLength="93.6" lengthAdjust="spacingAndGlyphs">cooQQ#####QQQos*;;</text><text x="169.6" y="275" textLength="93.6" lengthAdjust="spacingAndGlyphs">csooQQQQQQQQoos*=~</text><text x="169.6" y="285.6" textLength="93.6" lengthAdjust="spacingAndGlyphs">*csoooQQQQoooss*==</text><text x="169.6" y="296.2" textLength="93.6" lengthAdjust="spacingAndGlyphs">*cssoooooooossc*+o</text><text x="169.6" y="306.8" textLength="98.8" lengthAdjust="spacingAndGlyphs">+*cssooooooossc*+Q=</text><text x="169.6" y="317.4" textLength="98.8" lengthAdjust="spacingAndGlyphs">~+*cssssssssscc*+~*</text><text x="174.8" y="328" textLength="93.6" lengthAdjust="spacingAndGlyphs">=+*cccccccccc**+~*</text><text x="174.8" y="338.6" textLength="93.6" lengthAdjust="spacingAndGlyphs">;=+****ccc****+=~;</text><text x="180" y="349.2" textLength="88.4" lengthAdjust="spacingAndGlyphs">;~=++******+++=~;</text><text x="185.2" y="359.8" textLength="83.2" lengthAdjust="spacingAndGlyphs">:;~===++++===~~;</text><text x="190.4" y="370.4" textLength="72.8" lengthAdjust="spacingAndGlyphs">.:;~~~~~~~~~;:</text><text x="206" y="381" textLength="52" lengthAdjust="spacingAndGlyphs">,:::::::,.</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.269;0.269;0.308;0.308;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="180" y="222" textLength="57.2" lengthAdjust="spacingAndGlyphs">@@@@@%%%##%</text><text x="164.4" y="232.6" textLength="88.4" lengthAdjust="spacingAndGlyphs">%@@@@@%##QossssoQ</text><text x="154" y="243.2" textLength="109.2" lengthAdjust="spacingAndGlyphs">Q%%@@%%%#Qosc++++**so</text><text x="148.8" y="253.8" textLength="119.6" lengthAdjust="spacingAndGlyphs">Q#%%%%%%##Qsc+~~~~=*ccs</text><text x="148.8" y="264.4" textLength="124.8" lengthAdjust="spacingAndGlyphs">Q##%%%###Qos*=;...,~+css</text><text x="143.6" y="275" textLength="135.2" lengthAdjust="spacingAndGlyphs">sQQ#######Qosc=    .:~*soo</text><text x="143.6" y="285.6" textLength="140.4" lengthAdjust="spacingAndGlyphs">soQQ#####QQosc+   .:=ccQ#Qs</text><text x="143.6" y="296.2" textLength="140.4" lengthAdjust="spacingAndGlyphs">csoQQQQQQQQoosc+  .=o#%%%%Q</text><text x="143.6" y="306.8" textLength="145.6" lengthAdjust="spacingAndGlyphs">*ssooooQQQQooosc*  o%@@@@%Q+</text><text x="143.6" y="317.4" textLength="145.6" lengthAdjust="spacingAndGlyphs">=cssooooooooooossccsQ#%@@%Q+</text><text x="148.8" y="328" textLength="140.4" lengthAdjust="spacingAndGlyphs">+*cssooooooooosssssoQ###Qs=</text><text x="154" y="338.6" textLength="130" lengthAdjust="spacingAndGlyphs">=*ccssssssssssssssooooos+</text><text x="159.2" y="349.2" textLength="124.8" lengthAdjust="spacingAndGlyphs">~+**ccccssssscccssscc*+=</text><text x="164.4" y="359.8" textLength="114.4" lengthAdjust="spacingAndGlyphs">:~=+****ccccccccccc**=</text><text x="174.8" y="370.4" textLength="98.8" lengthAdjust="spacingAndGlyphs">,;~==++++*****+++~,</text><text x="190.4" y="381" textLength="67.6" lengthAdjust="spacingAndGlyphs">.:;;;~~~~~;;:</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.308;0.308;0.346;0.346;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="200.8" y="222" textLength="41.6" lengthAdjust="spacingAndGlyphs">@@@@@@@@</text><text x="180" y="232.6" textLength="88.4" lengthAdjust="spacingAndGlyphs">@@@%%%##QQQQQ##%%</text><text x="164.4" y="243.2" textLength="114.4" lengthAdjust="spacingAndGlyphs">%%%%%##QossssosooooQ##</text><text x="159.2" y="253.8" textLength="130" lengthAdjust="spacingAndGlyphs">#%%%##Qosscc*****cssooQ##</text><text x="154" y="264.4" textLength="140.4" lengthAdjust="spacingAndGlyphs">######Qosc*+~;:::;~+*cooQQQ</text><text x="148.8" y="275" textLength="150.8" lengthAdjust="spacingAndGlyphs">Q#####Qooc*=:      :~+coQQQQQ</text><text x="143.6" y="285.6" textLength="161.2" lengthAdjust="spacingAndGlyphs">*oQ####QQoc+;        ;=coQ###Qs</text><text x="143.6" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">*oQQQ##QQooc+        +sQ#####Qs</text><text x="143.6" y="306.8" textLength="161.2" lengthAdjust="spacingAndGlyphs">*soQQQQQQQQooc      *Q#%%%%%#Qc</text><text x="148.8" y="317.4" textLength="156" lengthAdjust="spacingAndGlyphs">coooQQQQ##QQQQQQQQ%%@@@@@%#Qs*</text><text x="148.8" y="328" textLength="156" lengthAdjust="spacingAndGlyphs">+csoooQQQ#####%%%@@@@@@@%#Qoc=</text><text x="154" y="338.6" textLength="145.6" lengthAdjust="spacingAndGlyphs">+csoooooQQQ###%%%%%%%%#Qoss+</text><text x="159.2" y="349.2" textLength="135.2" lengthAdjust="spacingAndGlyphs">~*cssooooooQQQQQQQQQososc=</text><text x="164.4" y="359.8" textLength="124.8" lengthAdjust="spacingAndGlyphs">,~+*ccssoooooosooooss*=,</text><text x="180" y="370.4" textLength="93.6" lengthAdjust="spacingAndGlyphs">:~=++**ccccccc**=;</text><text x="200.8" y="381" textLength="52" lengthAdjust="spacingAndGlyphs">,:;;;~;;::</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.346;0.346;0.385;0.385;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="221.6" y="211.4" textLength="31.2" lengthAdjust="spacingAndGlyphs">@@@@@@</text><text x="195.6" y="222" textLength="83.2" lengthAdjust="spacingAndGlyphs">%%%########%%%%%</text><text x="180" y="232.6" textLength="114.4" lengthAdjust="spacingAndGlyphs">###QQoooooooooooQQ##%#</text><text x="169.6" y="243.2" textLength="135.2" lengthAdjust="spacingAndGlyphs">QQQooooossccccssooooooQQ#Q</text><text x="164.4" y="253.8" textLength="145.6" lengthAdjust="spacingAndGlyphs">ooooosc**+=~~~~=+*ccsooooQQQ</text><text x="159.2" y="264.4" textLength="156" lengthAdjust="spacingAndGlyphs">soooscc*+~;,.   .:;~+*csooooos</text><text x="159.2" y="275" textLength="156" lengthAdjust="spacingAndGlyphs">sssscc*=~:        .:~=*csoooos</text><text x="159.2" y="285.6" textLength="161.2" lengthAdjust="spacingAndGlyphs">sssscc+=;.         .;=+ccssoos+</text><text x="159.2" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">cssssc*+~:;        ,;=*ccsssss+</text><text x="159.2" y="306.8" textLength="156" lengthAdjust="spacingAndGlyphs">csssssoooosc     =ccssscsssssc</text><text x="159.2" y="317.4" textLength="156" lengthAdjust="spacingAndGlyphs">+csssooQ##%%%%%%##QQQoosssscc+</text><text x="164.4" y="328" textLength="145.6" lengthAdjust="spacingAndGlyphs">+cssooQ##%@@@@@%%##Qoosscc*+</text><text x="169.6" y="338.6" textLength="135.2" lengthAdjust="spacingAndGlyphs">=*cooooQ##%%%%##Qooosscc*=</text><text x="174.8" y="349.2" textLength="124.8" lengthAdjust="spacingAndGlyphs">:=*csoooooooooooosscc*=:</text><text x="190.4" y="359.8" textLength="98.8" lengthAdjust="spacingAndGlyphs">;=*ccsoooossc**+=;.</text><text x="206" y="370.4" textLength="62.4" lengthAdjust="spacingAndGlyphs">.:;~~~~~~;:.</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.385;0.385;0.423;0.423;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="195.6" y="211.4" textLength="83.2" lengthAdjust="spacingAndGlyphs">%%%%%%%%%%%%%@@@</text><text x="180" y="222" textLength="114.4" lengthAdjust="spacingAndGlyphs">#QQQooooooooQQQQ####%%</text><text x="169.6" y="232.6" textLength="135.2" lengthAdjust="spacingAndGlyphs">oossssossssooooooooooQQQ##</text><text x="164.4" y="243.2" textLength="150.8" lengthAdjust="spacingAndGlyphs">scssccc*******cccssooooooooQo</text><text x="164.4" y="253.8" textLength="156" lengthAdjust="spacingAndGlyphs">cc*+==~~;~;~~~~=++**ccssoosoos</text><text x="159.2" y="264.4" textLength="161.2" lengthAdjust="spacingAndGlyphs">+*+=~;:,...   .,,:;~=++*cccssss</text><text x="159.2" y="275" textLength="166.4" lengthAdjust="spacingAndGlyphs">+=~;:,.           .,:;~=++**ccc*</text><text x="159.2" y="285.6" textLength="166.4" lengthAdjust="spacingAndGlyphs">~~;:,,.   .         .,;~~=++****</text><text x="164.4" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">;;::,.....*       ...,:;~==++++</text><text x="164.4" y="306.8" textLength="161.2" lengthAdjust="spacingAndGlyphs">:;;;;;;;~sQ#%%Qoc~...,:;~~~===~</text><text x="169.6" y="317.4" textLength="150.8" lengthAdjust="spacingAndGlyphs">,;~~==+co#%@@%Qs+:,,::;;~~~~;</text><text x="180" y="328" textLength="135.2" lengthAdjust="spacingAndGlyphs">:~=+*sooQ#QQoc*=~;;;;;;;;:</text><text x="190.4" y="338.6" textLength="114.4" lengthAdjust="spacingAndGlyphs">,~+*soossscc*+=~;;:::,</text><text x="206" y="349.2" textLength="83.2" lengthAdjust="spacingAndGlyphs">.;=++**++=~;::,.</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.423;0.423;0.462;0.462;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="180" y="222" textLength="93.6" lengthAdjust="spacingAndGlyphs">%%%%%%%%%%%@@@@@@@</text><text x="164.4" y="232.6" textLength="130" lengthAdjust="spacingAndGlyphs">##QQQQQQQQQ#########%%%%%</text><text x="154" y="243.2" textLength="156" lengthAdjust="spacingAndGlyphs">oosssssooosoooooooooQQQQQQ####</text><text x="148.8" y="253.8" textLength="166.4" lengthAdjust="spacingAndGlyphs">c*ccssssssssssssoooooooooooooQQQ</text><text x="148.8" y="264.4" textLength="171.6" lengthAdjust="spacingAndGlyphs">+****+++++++*****cccccssssssossss</text><text x="148.8" y="275" textLength="176.8" lengthAdjust="spacingAndGlyphs">=~~~~~;;~~~~~~~~===++++***ccccsscc</text><text x="148.8" y="285.6" textLength="176.8" lengthAdjust="spacingAndGlyphs">::,...........,,,::;;~~~===+++****</text><text x="154" y="296.2" textLength="171.6" lengthAdjust="spacingAndGlyphs">.         ..*o%@@%o..,,::;;~~===+</text><text x="200.8" y="306.8" textLength="124.8" lengthAdjust="spacingAndGlyphs">..;*sQ##o*:... ..,,::;;;</text><text x="200.8" y="317.4" textLength="119.6" lengthAdjust="spacingAndGlyphs">.,~+soosc+:.       ...,</text><text x="206" y="328" textLength="57.2" lengthAdjust="spacingAndGlyphs">..:=+**+~:.</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.462;0.462;0.5;0.5;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="180" y="253.8" textLength="109.2" lengthAdjust="spacingAndGlyphs">%@@@@@@@@@@@@@@@@@@@%</text><text x="154" y="264.4" textLength="161.2" lengthAdjust="spacingAndGlyphs">#%%%%%@@@@@@@@@@@@@@@@@@@%%%%%#</text><text x="148.8" y="275" textLength="171.6" lengthAdjust="spacingAndGlyphs">QQ########%%%%%%%%%%%%%########QQ</text><text x="143.6" y="285.6" textLength="182" lengthAdjust="spacingAndGlyphs">ssoooooQQQQQQQQQQQQQQQQQQQQQoooooss</text><text x="143.6" y="296.2" textLength="182" lengthAdjust="spacingAndGlyphs">*ccsssssooooooooooooooooooossssscc*</text><text x="143.6" y="306.8" textLength="182" lengthAdjust="spacingAndGlyphs">+***ccccssssssssssssssssssscccc***+</text><text x="143.6" y="317.4" textLength="182" lengthAdjust="spacingAndGlyphs">,;~~===+++++++++++++++++++++===~~;,</text><text x="159.2" y="328" textLength="150.8" lengthAdjust="spacingAndGlyphs">.,,::;;;;;;;;;;;;;;;;;;;::,,.</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.5;0.538;0.538;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="232" y="253.8" textLength="62.4" lengthAdjust="spacingAndGlyphs">%@@%%%%%%@@%</text><text x="195.6" y="264.4" textLength="114.4" lengthAdjust="spacingAndGlyphs">%@@@@%%#Qosssso#%@@@@@</text><text x="174.8" y="275" textLength="145.6" lengthAdjust="spacingAndGlyphs">#@@@@%%#Qoossc=~=Q%%@@@@@@%#</text><text x="164.4" y="285.6" textLength="161.2" lengthAdjust="spacingAndGlyphs">%%%%%#Qosc*os*=#%%@@@@@@@@@@%#o</text><text x="154" y="296.2" textLength="171.6" lengthAdjust="spacingAndGlyphs">o%%%%%%%%%%%%@@@@@@@@@@@@@@%%%#Qo</text><text x="154" y="306.8" textLength="171.6" lengthAdjust="spacingAndGlyphs">Q#%%%%@@@@@@@@@@@@@@@@@%%%%##QQsc</text><text x="148.8" y="317.4" textLength="176.8" lengthAdjust="spacingAndGlyphs">coQ###%%%%%%%%%%%%%%%%%####QQoosc*</text><text x="148.8" y="328" textLength="171.6" lengthAdjust="spacingAndGlyphs">+ssoQQQ##############QQQQooosssc+</text><text x="148.8" y="338.6" textLength="166.4" lengthAdjust="spacingAndGlyphs">~ccssssooooooQoooooooooooossc*+~</text><text x="154" y="349.2" textLength="156" lengthAdjust="spacingAndGlyphs">;+*cssssssosoooooooossscc*+=~.</text><text x="164.4" y="359.8" textLength="130" lengthAdjust="spacingAndGlyphs">;=+****cccccccc****++=~;,</text><text x="180" y="370.4" textLength="93.6" lengthAdjust="spacingAndGlyphs">,;;~~~~====~~~;::.</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.538;0.538;0.577;0.577;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="237.2" y="232.6" textLength="26" lengthAdjust="spacingAndGlyphs">@@@@@</text><text x="206" y="243.2" textLength="88.4" lengthAdjust="spacingAndGlyphs">@%%####Q##%%@@@@@</text><text x="190.4" y="253.8" textLength="114.4" lengthAdjust="spacingAndGlyphs">%%%#QoooosscsoQ#%@@@@@</text><text x="180" y="264.4" textLength="135.2" lengthAdjust="spacingAndGlyphs">%@%%#Qosc*****c*sQ#%%@@@@#</text><text x="169.6" y="275" textLength="150.8" lengthAdjust="spacingAndGlyphs">Q%@@%#Qss*=:,.,;~=co#%%@@@@%Q</text><text x="164.4" y="285.6" textLength="161.2" lengthAdjust="spacingAndGlyphs">Q%@@@%#Qc*~.     .+sQ#%%@@%%%#c</text><text x="164.4" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">#%@@@@%#s~       +oQ#%%%%%%%#Qs</text><text x="159.2" y="306.8" textLength="166.4" lengthAdjust="spacingAndGlyphs">s#%@@@@@%#o     cQ##%%%%%%%%#Qo*</text><text x="159.2" y="317.4" textLength="166.4" lengthAdjust="spacingAndGlyphs">cQ#%@@@@@@%%%%%%%%%%%%%%%%##Qos*</text><text x="159.2" y="328" textLength="161.2" lengthAdjust="spacingAndGlyphs">*sQ#%%@@@@@@@@@@@%%%%%%###Qoosc</text><text x="164.4" y="338.6" textLength="156" lengthAdjust="spacingAndGlyphs">csoQ##%%%%%%%%%%%%####QQooss*~</text><text x="164.4" y="349.2" textLength="150.8" lengthAdjust="spacingAndGlyphs">=ccsooQQQ#######QQQoooooosc+;</text><text x="169.6" y="359.8" textLength="135.2" lengthAdjust="spacingAndGlyphs">;+csosssooooooooooooosc*+~</text><text x="180" y="370.4" textLength="114.4" lengthAdjust="spacingAndGlyphs">;=*ccssssosssssccc*+=:</text><text x="195.6" y="381" textLength="83.2" lengthAdjust="spacingAndGlyphs">:~~=+++++++==~;,</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.577;0.577;0.615;0.615;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="206" y="222" textLength="62.4" lengthAdjust="spacingAndGlyphs">@@@@@@@@@@@@</text><text x="185.2" y="232.6" textLength="104" lengthAdjust="spacingAndGlyphs">#%%##QQQooQQQ###%%%%</text><text x="174.8" y="243.2" textLength="124.8" lengthAdjust="spacingAndGlyphs">###QooooooooooooooQ###%#</text><text x="169.6" y="253.8" textLength="135.2" lengthAdjust="spacingAndGlyphs">##Qooossc**+++**csoooQQ###</text><text x="164.4" y="264.4" textLength="145.6" lengthAdjust="spacingAndGlyphs">QQQQoosc*=;:,,,:;=+csooQQQ#Q</text><text x="159.2" y="275" textLength="156" lengthAdjust="spacingAndGlyphs">oQQQQosc+~:       ,~+*sooQQQQo</text><text x="159.2" y="285.6" textLength="156" lengthAdjust="spacingAndGlyphs">oQQQQos*=;         :=*sooQQQQo</text><text x="159.2" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">soQQQQQos*:        +csooQQQQos=</text><text x="159.2" y="306.8" textLength="161.2" lengthAdjust="spacingAndGlyphs">soQQQ###QQs~      cooQQQQQQoos=</text><text x="159.2" y="317.4" textLength="156" lengthAdjust="spacingAndGlyphs">csoQQ##%%%%%%##########QQooosc</text><text x="159.2" y="328" textLength="156" lengthAdjust="spacingAndGlyphs">=csoQQ##%%@@@@@@@%%%##QQooosc=</text><text x="164.4" y="338.6" textLength="145.6" lengthAdjust="spacingAndGlyphs">=csooQQ##%%@@@%%%##QQoooos*=</text><text x="169.6" y="349.2" textLength="135.2" lengthAdjust="spacingAndGlyphs">;+csooooQQQQQQQQoooooos*+:</text><text x="180" y="359.8" textLength="114.4" lengthAdjust="spacingAndGlyphs">;+*csoooooooooooscc*=:</text><text x="195.6" y="370.4" textLength="83.2" lengthAdjust="spacingAndGlyphs">;~=+***c****+=~:</text><text x="232" y="381" textLength="10.4" lengthAdjust="spacingAndGlyphs">..</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.615;0.615;0.654;0.654;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="200.8" y="211.4" textLength="57.2" lengthAdjust="spacingAndGlyphs">@@@@@@@@@@@</text><text x="180" y="222" textLength="93.6" lengthAdjust="spacingAndGlyphs">%%%%%###QQQQQQQQ##</text><text x="164.4" y="232.6" textLength="124.8" lengthAdjust="spacingAndGlyphs">#%###QQQooooooosossoooQQ</text><text x="159.2" y="243.2" textLength="135.2" lengthAdjust="spacingAndGlyphs">Q#QQQooooosscc****cccsssso</text><text x="154" y="253.8" textLength="145.6" lengthAdjust="spacingAndGlyphs">QQQooooosc*+==~;;;;~=+*ccsss</text><text x="148.8" y="264.4" textLength="156" lengthAdjust="spacingAndGlyphs">ooooooosc*+~;:,    ..,;~=+*ccc</text><text x="148.8" y="275" textLength="156" lengthAdjust="spacingAndGlyphs">ssoosscc+=~:.        .,;~=+*c*</text><text x="143.6" y="285.6" textLength="161.2" lengthAdjust="spacingAndGlyphs">*sssssc**=~:.        ..,;=++***</text><text x="143.6" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">*cccccc*+=~:.       :.:~=+****+</text><text x="143.6" y="306.8" textLength="161.2" lengthAdjust="spacingAndGlyphs">=*cccc**++=~==     oQQQoccccc*=</text><text x="148.8" y="317.4" textLength="150.8" lengthAdjust="spacingAndGlyphs">+********+*ccsQ#%@@@%#Qossc*=</text><text x="154" y="328" textLength="140.4" lengthAdjust="spacingAndGlyphs">=+******ccsoQQ#%@@@%#Qoosc=</text><text x="159.2" y="338.6" textLength="130" lengthAdjust="spacingAndGlyphs">~=++***ccssooQQ##Qoooos*~</text><text x="164.4" y="349.2" textLength="114.4" lengthAdjust="spacingAndGlyphs">,;==++*ccsssssosoosc+~</text><text x="180" y="359.8" textLength="88.4" lengthAdjust="spacingAndGlyphs">:;~~=++**ccc*+=~.</text><text x="206" y="370.4" textLength="31.2" lengthAdjust="spacingAndGlyphs">..,,,.</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.654;0.654;0.692;0.692;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="190.4" y="211.4" textLength="67.6" lengthAdjust="spacingAndGlyphs">@@@@@@%%%%###</text><text x="174.8" y="222" textLength="98.8" lengthAdjust="spacingAndGlyphs">%%%%%%%###QQoosssso</text><text x="164.4" y="232.6" textLength="114.4" lengthAdjust="spacingAndGlyphs">#%%%%###QQooscscccc**c</text><text x="159.2" y="243.2" textLength="124.8" lengthAdjust="spacingAndGlyphs">######QQoosscsc**++==+++</text><text x="154" y="253.8" textLength="130" lengthAdjust="spacingAndGlyphs">QQQQQQQoooosc*++~;:,,:;~+</text><text x="148.8" y="264.4" textLength="140.4" lengthAdjust="spacingAndGlyphs">ooQQooooosscc*=~:,    ..:~=</text><text x="143.6" y="275" textLength="145.6" lengthAdjust="spacingAndGlyphs">csoooooooscc*+=;:      ..,;~</text><text x="143.6" y="285.6" textLength="145.6" lengthAdjust="spacingAndGlyphs">csoooosssc**+=;,   ....,,;~;</text><text x="143.6" y="296.2" textLength="140.4" lengthAdjust="spacingAndGlyphs">csssssscc**+=;:   so~~====~</text><text x="143.6" y="306.8" textLength="140.4" lengthAdjust="spacingAndGlyphs">*ccccccc*++=~;, c#@@%##cc+~</text><text x="143.6" y="317.4" textLength="135.2" lengthAdjust="spacingAndGlyphs">+*******++=~~:,:*Q%@@%Qsc=</text><text x="148.8" y="328" textLength="124.8" lengthAdjust="spacingAndGlyphs">++++++++==~~;:~+coQQosc+</text><text x="148.8" y="338.6" textLength="119.6" lengthAdjust="spacingAndGlyphs">~========~~~;;~=*cc*cc=</text><text x="154" y="349.2" textLength="109.2" lengthAdjust="spacingAndGlyphs">:;~~~~~~~~~~~~=+*+*=,</text><text x="164.4" y="359.8" textLength="83.2" lengthAdjust="spacingAndGlyphs">,:;;;;;;;;;~~~~;</text><text x="180" y="370.4" textLength="52" lengthAdjust="spacingAndGlyphs">...,,,,,,.</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.692;0.692;0.731;0.731;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="200.8" y="211.4" textLength="57.2" lengthAdjust="spacingAndGlyphs">%@@@@@@%%#Q</text><text x="190.4" y="222" textLength="72.8" lengthAdjust="spacingAndGlyphs">Q%%@@@%%%%#Qos</text><text x="185.2" y="232.6" textLength="83.2" lengthAdjust="spacingAndGlyphs">Q#%%%%%%%##Qosc=</text><text x="180" y="243.2" textLength="88.4" lengthAdjust="spacingAndGlyphs">oQ##%%%####Qosc+;</text><text x="174.8" y="253.8" textLength="93.6" lengthAdjust="spacingAndGlyphs">soQ#######QQoos*=,</text><text x="174.8" y="264.4" textLength="93.6" lengthAdjust="spacingAndGlyphs">soQQQQQQQQQoosc+~.</text><text x="169.6" y="275" textLength="98.8" lengthAdjust="spacingAndGlyphs">*sooQQQQQQooosc*+;.</text><text x="169.6" y="285.6" textLength="98.8" lengthAdjust="spacingAndGlyphs">*ssooooooooossc+=,,</text><text x="169.6" y="296.2" textLength="93.6" lengthAdjust="spacingAndGlyphs">*ssssoooooossc*+~=</text><text x="169.6" y="306.8" textLength="93.6" lengthAdjust="spacingAndGlyphs">*cssssssssscc*+=;+</text><text x="169.6" y="317.4" textLength="93.6" lengthAdjust="spacingAndGlyphs">+*ccsssssccc**+~:~</text><text x="169.6" y="328" textLength="93.6" lengthAdjust="spacingAndGlyphs">=**ccccccc**++=~.:</text><text x="169.6" y="338.6" textLength="88.4" lengthAdjust="spacingAndGlyphs">~++********++=~;~</text><text x="174.8" y="349.2" textLength="83.2" lengthAdjust="spacingAndGlyphs">~=++++++++==~;::</text><text x="180" y="359.8" textLength="72.8" lengthAdjust="spacingAndGlyphs">;~=======~~;:,</text><text x="185.2" y="370.4" textLength="62.4" lengthAdjust="spacingAndGlyphs">:;;;;;;;;::,</text><text x="195.6" y="381" textLength="41.6" lengthAdjust="spacingAndGlyphs">,,,,,,,.</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.731;0.731;0.769;0.769;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="211.2" y="211.4" textLength="57.2" lengthAdjust="spacingAndGlyphs">##%%@@@@@@%</text><text x="206" y="222" textLength="72.8" lengthAdjust="spacingAndGlyphs">soQ#%%%%@@@%%Q</text><text x="200.8" y="232.6" textLength="83.2" lengthAdjust="spacingAndGlyphs">~*soQ##%%%%%%%#Q</text><text x="200.8" y="243.2" textLength="88.4" lengthAdjust="spacingAndGlyphs">~+cooQQ###%%%##Qo</text><text x="200.8" y="253.8" textLength="93.6" lengthAdjust="spacingAndGlyphs">.=*sooQQ#######Qos</text><text x="200.8" y="264.4" textLength="93.6" lengthAdjust="spacingAndGlyphs">.~+csooQQQQQQQQQos</text><text x="200.8" y="275" textLength="98.8" lengthAdjust="spacingAndGlyphs">.;+*cssooQQQQQQoos*</text><text x="200.8" y="285.6" textLength="98.8" lengthAdjust="spacingAndGlyphs">,,=*ccssooooooooss*</text><text x="206" y="296.2" textLength="93.6" lengthAdjust="spacingAndGlyphs">=~+*ccssooooooosc*</text><text x="206" y="306.8" textLength="93.6" lengthAdjust="spacingAndGlyphs">+;=+*cssssssssssc*</text><text x="206" y="317.4" textLength="93.6" lengthAdjust="spacingAndGlyphs">~:~+**cccssssscc*+</text><text x="206" y="328" textLength="93.6" lengthAdjust="spacingAndGlyphs">:.~=++**ccccccc**=</text><text x="211.2" y="338.6" textLength="88.4" lengthAdjust="spacingAndGlyphs">;;~=++********+=~</text><text x="211.2" y="349.2" textLength="83.2" lengthAdjust="spacingAndGlyphs">::;~==++++++++=~</text><text x="216.4" y="359.8" textLength="72.8" lengthAdjust="spacingAndGlyphs">,:;~~=======~;</text><text x="221.6" y="370.4" textLength="62.4" lengthAdjust="spacingAndGlyphs">,::;;;;;;;;:</text><text x="232" y="381" textLength="41.6" lengthAdjust="spacingAndGlyphs">.,,,,,,,</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.769;0.769;0.808;0.808;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="211.2" y="211.4" textLength="67.6" lengthAdjust="spacingAndGlyphs">###%%%%@@@@@@</text><text x="195.6" y="222" textLength="98.8" lengthAdjust="spacingAndGlyphs">ossosooQQQ##%%%%%%%</text><text x="190.4" y="232.6" textLength="114.4" lengthAdjust="spacingAndGlyphs">*****c*cssooQQ###%%%%#</text><text x="185.2" y="243.2" textLength="124.8" lengthAdjust="spacingAndGlyphs">++++==++*csssoooQQ######</text><text x="185.2" y="253.8" textLength="130" lengthAdjust="spacingAndGlyphs">+~;:,,:;~=+*csssooQQQQQQQ</text><text x="180" y="264.4" textLength="140.4" lengthAdjust="spacingAndGlyphs">~~:..    ,;~=+*csooooooQQoo</text><text x="180" y="275" textLength="145.6" lengthAdjust="spacingAndGlyphs">~;,..      ,;=+*ccsooooooooc</text><text x="180" y="285.6" textLength="145.6" lengthAdjust="spacingAndGlyphs">;~;,.....   ,;~+*ccssooooosc</text><text x="185.2" y="296.2" textLength="140.4" lengthAdjust="spacingAndGlyphs">~===~~~ss   :;=+**ccssssssc</text><text x="185.2" y="306.8" textLength="140.4" lengthAdjust="spacingAndGlyphs">~+cc##%@@%c ,;~=+***cccccc*</text><text x="190.4" y="317.4" textLength="135.2" lengthAdjust="spacingAndGlyphs">=csQ%@@%Q*:,:~~=++*******+</text><text x="195.6" y="328" textLength="124.8" lengthAdjust="spacingAndGlyphs">+scoQQoc+~:;~~==++++++++</text><text x="200.8" y="338.6" textLength="119.6" lengthAdjust="spacingAndGlyphs">~c**c**=~;;~~~========~</text><text x="206" y="349.2" textLength="109.2" lengthAdjust="spacingAndGlyphs">.=*+*+=~~~~~~~~~~~~;:</text><text x="221.6" y="359.8" textLength="83.2" lengthAdjust="spacingAndGlyphs">;~~~~;;;;;;;;;:,</text><text x="237.2" y="370.4" textLength="52" lengthAdjust="spacingAndGlyphs">.,,,,,,,..</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.808;0.808;0.846;0.846;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="211.2" y="211.4" textLength="57.2" lengthAdjust="spacingAndGlyphs">@@@@@@@@@@@</text><text x="195.6" y="222" textLength="93.6" lengthAdjust="spacingAndGlyphs">###QQQQQQQ###%%%%%</text><text x="180" y="232.6" textLength="124.8" lengthAdjust="spacingAndGlyphs">QQoosssssoooooooQQQ###%#</text><text x="174.8" y="243.2" textLength="135.2" lengthAdjust="spacingAndGlyphs">ossssccc*****cssoooooQQQ#Q</text><text x="169.6" y="253.8" textLength="145.6" lengthAdjust="spacingAndGlyphs">sssc*+==~~;;;~==+*csoooooQQQ</text><text x="164.4" y="264.4" textLength="156" lengthAdjust="spacingAndGlyphs">cccc+=~:,..    ,:;~+*cssoooooo</text><text x="164.4" y="275" textLength="156" lengthAdjust="spacingAndGlyphs">*c*+=~;,.        .:~=+*cssooss</text><text x="164.4" y="285.6" textLength="161.2" lengthAdjust="spacingAndGlyphs">***++=;:..        .:~=+*csssss*</text><text x="164.4" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">+****+=~:.:       .:~=+*cccccc*</text><text x="164.4" y="306.8" textLength="161.2" lengthAdjust="spacingAndGlyphs">=*cccccoQQQo     ==;=++**cccc*=</text><text x="169.6" y="317.4" textLength="150.8" lengthAdjust="spacingAndGlyphs">=*cssoQ#%@@@%#Qoccc+********+</text><text x="174.8" y="328" textLength="140.4" lengthAdjust="spacingAndGlyphs">=*sooQ#%@@@%#Qooscc******+=</text><text x="180" y="338.6" textLength="130" lengthAdjust="spacingAndGlyphs">~*soooQQ##QQoosscc***++=~</text><text x="190.4" y="349.2" textLength="114.4" lengthAdjust="spacingAndGlyphs">~+csosoossssscc*++==~,</text><text x="200.8" y="359.8" textLength="88.4" lengthAdjust="spacingAndGlyphs">.~=+*ccc**++=~~;:</text><text x="232" y="370.4" textLength="31.2" lengthAdjust="spacingAndGlyphs">.,,,..</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.846;0.846;0.885;0.885;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="200.8" y="222" textLength="62.4" lengthAdjust="spacingAndGlyphs">@@@@@@@@@@@@</text><text x="180" y="232.6" textLength="104" lengthAdjust="spacingAndGlyphs">%%%%##QQQooooQQ##%%#</text><text x="169.6" y="243.2" textLength="124.8" lengthAdjust="spacingAndGlyphs">#%###QooooooooooooooQ###</text><text x="164.4" y="253.8" textLength="135.2" lengthAdjust="spacingAndGlyphs">###QQooosc**++++*csooooQ##</text><text x="159.2" y="264.4" textLength="145.6" lengthAdjust="spacingAndGlyphs">Q#QQQoosc+=;:,,,:;=+csooQQQQ</text><text x="154" y="275" textLength="156" lengthAdjust="spacingAndGlyphs">oQQQQoosc+~,       :~+csoQQQQo</text><text x="154" y="285.6" textLength="156" lengthAdjust="spacingAndGlyphs">oQQQQooc*=:         ;=*soQQQQo</text><text x="148.8" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">=soQQQQoosc=        :+sooQQQQos</text><text x="148.8" y="306.8" textLength="161.2" lengthAdjust="spacingAndGlyphs">=sooQQQQQQooc      ~oQQ###QQQos</text><text x="154" y="317.4" textLength="156" lengthAdjust="spacingAndGlyphs">csoooQQ##########%%%%%%##QQosc</text><text x="154" y="328" textLength="156" lengthAdjust="spacingAndGlyphs">=csoooQQ##%%%@@@@@@@%%##QQooc=</text><text x="159.2" y="338.6" textLength="145.6" lengthAdjust="spacingAndGlyphs">=*sooooQQ##%%%@@%%%##QQoosc=</text><text x="164.4" y="349.2" textLength="135.2" lengthAdjust="spacingAndGlyphs">:+csooooooQQQQQQQQoooosc+;</text><text x="174.8" y="359.8" textLength="114.4" lengthAdjust="spacingAndGlyphs">;=+cssooooooooooosc*+;</text><text x="190.4" y="370.4" textLength="83.2" lengthAdjust="spacingAndGlyphs">:~=+***ccc**+=~:</text><text x="226.8" y="381" textLength="10.4" lengthAdjust="spacingAndGlyphs">..</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.885;0.885;0.923;0.923;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="206" y="232.6" textLength="26" lengthAdjust="spacingAndGlyphs">@@@@@</text><text x="174.8" y="243.2" textLength="88.4" lengthAdjust="spacingAndGlyphs">@@@@@%%###Q###%%@</text><text x="164.4" y="253.8" textLength="114.4" lengthAdjust="spacingAndGlyphs">@@@@@%#QoscssooooQ#%%%</text><text x="154" y="264.4" textLength="135.2" lengthAdjust="spacingAndGlyphs">#@@@@@%#Qs****+**cooQ#%%%%</text><text x="148.8" y="275" textLength="150.8" lengthAdjust="spacingAndGlyphs">Q%@@@@%%#oc==:,.,:=*ssQ#%@@%Q</text><text x="143.6" y="285.6" textLength="161.2" lengthAdjust="spacingAndGlyphs">cQ%%@@@%%#Qs+.     .~*cQ#%@@@%Q</text><text x="143.6" y="296.2" textLength="161.2" lengthAdjust="spacingAndGlyphs">sQ#%%%%%%%#Qo+       ~s#%@@@@%#</text><text x="143.6" y="306.8" textLength="166.4" lengthAdjust="spacingAndGlyphs">*oQ#%%%%%%%%##Qc     o#%@@@@@%#s</text><text x="143.6" y="317.4" textLength="166.4" lengthAdjust="spacingAndGlyphs">*soQ##%%%%%%%%%%%%%%%%@@@@@@%#Qc</text><text x="148.8" y="328" textLength="161.2" lengthAdjust="spacingAndGlyphs">csooQ###%%%%%%@@@@@@@@@@@%%#Qs*</text><text x="148.8" y="338.6" textLength="156" lengthAdjust="spacingAndGlyphs">~csoooQQQ###%%%%%%%%%%%%##Qosc</text><text x="154" y="349.2" textLength="150.8" lengthAdjust="spacingAndGlyphs">;+csooooooQQQ########QQooscc=</text><text x="164.4" y="359.8" textLength="135.2" lengthAdjust="spacingAndGlyphs">~+*csoooooooooooooossosc+;</text><text x="174.8" y="370.4" textLength="114.4" lengthAdjust="spacingAndGlyphs">:=+**cssssssssssscc*=;</text><text x="190.4" y="381" textLength="83.2" lengthAdjust="spacingAndGlyphs">,;~==+++++++==;:</text><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.923;0.923;0.962;0.962;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+<g opacity="0"><text x="174.8" y="253.8" textLength="62.4" lengthAdjust="spacingAndGlyphs">%@@%%%%%%@@%</text><text x="159.2" y="264.4" textLength="114.4" lengthAdjust="spacingAndGlyphs">@@@@@%#QssssoQ#%%@@@@%</text><text x="148.8" y="275" textLength="145.6" lengthAdjust="spacingAndGlyphs">#%@@@@@@%%Q=;=*ssooQ#%%@@@@#</text><text x="143.6" y="285.6" textLength="161.2" lengthAdjust="spacingAndGlyphs">o#%%@@@@@@@@@%%#=*ss+csoQ#%%%%%</text><text x="143.6" y="296.2" textLength="171.6" lengthAdjust="spacingAndGlyphs">oQ#%%%@@@@@@@@@@@@@@%%%%%%%%%%%#Q</text><text x="143.6" y="306.8" textLength="176.8" lengthAdjust="spacingAndGlyphs">csoQ##%%%%@@@@@@@@@@@@@@@@@%%%%#Q*</text><text x="143.6" y="317.4" textLength="176.8" lengthAdjust="spacingAndGlyphs">*sssoQQ####%%%%%%%%%%%%%%%%%###Qoc</text><text x="148.8" y="328" textLength="171.6" lengthAdjust="spacingAndGlyphs">+csssooQQQQQQ#############QQQosc+</text><text x="154" y="338.6" textLength="166.4" lengthAdjust="spacingAndGlyphs">=+*sssosoooooooooQoQooooosssscc;</text><text x="164.4" y="349.2" textLength="150.8" lengthAdjust="spacingAndGlyphs">;=+**cssssooooooooooossssc*+;</text><text x="174.8" y="359.8" textLength="130" lengthAdjust="spacingAndGlyphs">,;~=++***cccccccccc**++=;</text><text x="195.6" y="370.4" textLength="93.6" lengthAdjust="spacingAndGlyphs">.::;~~~~=====~~;:,</text><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.962;0.962;1;1" dur="7.2s" begin="1.1s" calcMode="discrete" repeatCount="indefinite"/></g>
+</g>
+</g>
+<rect x="28" width="408" height="70" y="-70" fill="url(#scan)" opacity="0.22">
+      <animate attributeName="y" values="-70;582;-70" keyTimes="0;0.8;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+<rect x="50" y="498" width="364" height="1" fill="rgba(255,255,255,0.16)"/>
+<text x="50" y="524" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#10B981" opacity="0">
+      &gt; render identity <tspan fill="#94A3B8">--gradient --glow</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.5s" fill="freeze"/>
+    </text>
+<text x="50" y="544" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#94A3B8" opacity="0">
+      status: <tspan fill="#22D3EE">online</tspan> . uptime: <tspan fill="#22D3EE">4y</tspan> . commits: <tspan fill="#22D3EE">always</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.5s" fill="freeze"/>
+    </text>
+<rect x="52" y="550" width="8" height="14" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0;1" keyTimes="0;0.01;0.45;0.46;0.9;1" dur="1.1s" begin="3s" repeatCount="indefinite"/>
+    </rect>
+</g>
+<rect x="28" y="28" width="408" height="554" rx="18" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+<g filter="url(#softShadow)">
+      <rect x="452" y="28" width="700" height="554" rx="18" fill="url(#panelG)" opacity="0.92"/>
+    </g>
+<g clip-path="url(#clipRight)">
+<rect x="452" y="28" width="700" height="554" fill="url(#glass)" opacity="0.55"/>
+<rect x="452" y="28" width="700" height="40" fill="#131C31" opacity="0.9"/>
+<rect x="452" y="68" width="700" height="1" fill="rgba(255,255,255,0.16)"/>
+<circle cx="478" cy="48" r="5" fill="#FF5F57" opacity="0.9">
+        <animate attributeName="opacity" values="0.9;0.55;0.9" dur="3s" repeatCount="indefinite"/>
+      </circle>
+<circle cx="496" cy="48" r="5" fill="#FEBC2E" opacity="0.9">
+        <animate attributeName="opacity" values="0.9;0.55;0.9" dur="4s" repeatCount="indefinite"/>
+      </circle>
+<circle cx="514" cy="48" r="5" fill="#28C840" opacity="0.9">
+        <animate attributeName="opacity" values="0.9;0.55;0.9" dur="5s" repeatCount="indefinite"/>
+      </circle>
+<text x="802" y="52" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#64748B">JerrySoPro@dev: ~/portfolio -- zsh</text>
+<rect x="152" y="28" width="260" height="554" fill="url(#sheen)" transform="skewX(-18)" opacity="0.8">
+      <animate attributeName="x" values="132;1272;1272" keyTimes="0;0.35;1" dur="8s" repeatCount="indefinite"/>
+    </rect>
+<text x="500" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#10B981" opacity="0">
+      $ <tspan fill="#94A3B8">whoami</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.4s" fill="freeze"/>
+    </text>
+<text x="500" y="132" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="17" fill="#94A3B8" opacity="0">
+      Hi 👋 I&apos;m
+      <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.5s" fill="freeze"/>
+    </text>
+<g opacity="0" filter="url(#glowLg)">
+      <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.7s" fill="freeze"/>
+      <text x="500" y="176" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="url(#accent)" letter-spacing="-0.5">Rakib Rahman Rimon</text>
+    </g>
+<text x="500" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="22" fill="#64748B" opacity="0">&gt;
+      <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.4s" fill="freeze"/>
+    </text>
+<g opacity="0">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.2;0.2;1" dur="13s" begin="2.1s" repeatCount="indefinite"/>
+        <g clip-path="url(#tc0)">
+          <text x="524" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="22" fill="url(#accent)" font-weight="600" textLength="224.4" lengthAdjust="spacing">Frontend Engineer</text>
+        </g>
+        <rect x="524" y="196" width="11" height="22" fill="#22D3EE" opacity="0.9">
+          <animate attributeName="x" values="524;524;751.4;751.4;524;524" keyTimes="0;0;0.088;0.165;0.2;1" dur="13s" begin="2.1s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.95;0.95;0;0" keyTimes="0;0.49;0.5;1" dur="1s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+<g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.2;0.4;0.4;1" dur="13s" begin="2.1s" repeatCount="indefinite"/>
+        <g clip-path="url(#tc1)">
+          <text x="524" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="22" fill="url(#accent)" font-weight="600" textLength="264" lengthAdjust="spacing">Full Stack Developer</text>
+        </g>
+        <rect x="524" y="196" width="11" height="22" fill="#22D3EE" opacity="0.9">
+          <animate attributeName="x" values="524;524;791;791;524;524" keyTimes="0;0.2;0.288;0.365;0.4;1" dur="13s" begin="2.1s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.95;0.95;0;0" keyTimes="0;0.49;0.5;1" dur="1s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+<g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.4;0.6;0.6;1" dur="13s" begin="2.1s" repeatCount="indefinite"/>
+        <g clip-path="url(#tc2)">
+          <text x="524" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="22" fill="url(#accent)" font-weight="600" textLength="316.8" lengthAdjust="spacing">Systems Programming Nerd</text>
+        </g>
+        <rect x="524" y="196" width="11" height="22" fill="#22D3EE" opacity="0.9">
+          <animate attributeName="x" values="524;524;843.8;843.8;524;524" keyTimes="0;0.4;0.488;0.565;0.6;1" dur="13s" begin="2.1s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.95;0.95;0;0" keyTimes="0;0.49;0.5;1" dur="1s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+<g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.6;0.8;0.8;1" dur="13s" begin="2.1s" repeatCount="indefinite"/>
+        <g clip-path="url(#tc3)">
+          <text x="524" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="22" fill="url(#accent)" font-weight="600" textLength="303.6" lengthAdjust="spacing">Open Source Contributor</text>
+        </g>
+        <rect x="524" y="196" width="11" height="22" fill="#22D3EE" opacity="0.9">
+          <animate attributeName="x" values="524;524;830.6;830.6;524;524" keyTimes="0;0.6;0.688;0.765;0.8;1" dur="13s" begin="2.1s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.95;0.95;0;0" keyTimes="0;0.49;0.5;1" dur="1s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+<g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.8;0.8;1" dur="13s" begin="2.1s" repeatCount="indefinite"/>
+        <g clip-path="url(#tc4)">
+          <text x="524" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="22" fill="url(#accent)" font-weight="600" textLength="171.6" lengthAdjust="spacing">AI Enthusiast</text>
+        </g>
+        <rect x="524" y="196" width="11" height="22" fill="#22D3EE" opacity="0.9">
+          <animate attributeName="x" values="524;524;698.6;698.6;524;524" keyTimes="0;0.8;0.888;0.965;1;1" dur="13s" begin="2.1s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0.95;0.95;0;0" keyTimes="0;0.49;0.5;1" dur="1s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+<rect x="500" y="238" width="604" height="1" fill="rgba(255,255,255,0.16)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="2.3s" dur="0.5s" fill="freeze"/>
+    </rect>
+<g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.5s" fill="freeze"/>
+        <circle cx="504" cy="264" r="3" fill="#7C3AED">
+          <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+        </circle>
+        <text x="518" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#94A3B8">Location</text>
+        <text x="628" y="268" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#F8FAFC">Dhaka, Bangladesh</text>
+      </g>
+<g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="2.72s" dur="0.5s" fill="freeze"/>
+        <circle cx="504" cy="291" r="3" fill="#22D3EE">
+          <animate attributeName="opacity" values="1;0.4;1" dur="2.8s" repeatCount="indefinite"/>
+        </circle>
+        <text x="518" y="295" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#94A3B8">Education</text>
+        <text x="628" y="295" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#F8FAFC">CSE @ BRAC University</text>
+      </g>
+<g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="2.94s" dur="0.5s" fill="freeze"/>
+        <circle cx="504" cy="318" r="3" fill="#10B981">
+          <animate attributeName="opacity" values="1;0.4;1" dur="3.2s" repeatCount="indefinite"/>
+        </circle>
+        <text x="518" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#94A3B8">Focus</text>
+        <text x="628" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#F8FAFC">Systems Programming . Full Stack</text>
+      </g>
+<g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="3.16s" dur="0.5s" fill="freeze"/>
+        <circle cx="504" cy="345" r="3" fill="#7C3AED">
+          <animate attributeName="opacity" values="1;0.4;1" dur="3.6s" repeatCount="indefinite"/>
+        </circle>
+        <text x="518" y="349" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#94A3B8">Portfolio</text>
+        <text x="628" y="349" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#F8FAFC">rakibs.codes</text>
+      </g>
+<g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="3.38s" dur="0.5s" fill="freeze"/>
+        <circle cx="504" cy="372" r="3" fill="#22D3EE">
+          <animate attributeName="opacity" values="1;0.4;1" dur="4s" repeatCount="indefinite"/>
+        </circle>
+        <text x="518" y="376" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#94A3B8">Email</text>
+        <text x="628" y="376" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13.5" fill="#F8FAFC">hello@rakibs.codes</text>
+      </g>
+<text x="500" y="424" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#10B981" opacity="0">
+      $ <tspan fill="#94A3B8">ls skills/</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="3.7s" dur="0.4s" fill="freeze"/>
+    </text>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="3.9s" dur="0.4s" fill="freeze"/>
+        <rect x="500" y="442" width="62.5" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#7C3AED" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3s" begin="0s" repeatCount="indefinite"/>
+        </rect>
+        <text x="531.25" y="460" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">React</text>
+      </g>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="3.98s" dur="0.4s" fill="freeze"/>
+        <rect x="571.5" y="442" width="77.1" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.5s" begin="0.2s" repeatCount="indefinite"/>
+        </rect>
+        <text x="610.05" y="460" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">Next.js</text>
+      </g>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="4.06s" dur="0.4s" fill="freeze"/>
+        <rect x="657.6" y="442" width="77.1" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#10B981" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="4s" begin="0.4s" repeatCount="indefinite"/>
+        </rect>
+        <text x="696.15" y="460" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">Node.js</text>
+      </g>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="4.14s" dur="0.4s" fill="freeze"/>
+        <rect x="743.7" y="442" width="99" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#7C3AED" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="4.5s" begin="0.6s" repeatCount="indefinite"/>
+        </rect>
+        <text x="793.2" y="460" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">TypeScript</text>
+      </g>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="4.22s" dur="0.4s" fill="freeze"/>
+        <rect x="851.7" y="442" width="84.4" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="0.8s" repeatCount="indefinite"/>
+        </rect>
+        <text x="893.9" y="460" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">Tailwind</text>
+      </g>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="4.3s" dur="0.4s" fill="freeze"/>
+        <rect x="945.1" y="442" width="69.8" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#10B981" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3s" begin="1s" repeatCount="indefinite"/>
+        </rect>
+        <text x="980" y="460" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">Python</text>
+      </g>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="4.38s" dur="0.4s" fill="freeze"/>
+        <rect x="1023.9" y="442" width="47.9" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#7C3AED" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.5s" begin="1.2s" repeatCount="indefinite"/>
+        </rect>
+        <text x="1047.85" y="460" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">C++</text>
+      </g>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="4.46s" dur="0.4s" fill="freeze"/>
+        <rect x="500" y="478" width="69.8" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="4s" begin="1.4s" repeatCount="indefinite"/>
+        </rect>
+        <text x="534.9" y="496" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">Docker</text>
+      </g>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="4.54s" dur="0.4s" fill="freeze"/>
+        <rect x="578.8" y="478" width="84.4" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#10B981" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="4.5s" begin="1.6s" repeatCount="indefinite"/>
+        </rect>
+        <text x="621" y="496" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">Postgres</text>
+      </g>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="4.62s" dur="0.4s" fill="freeze"/>
+        <rect x="672.1999999999999" y="478" width="47.9" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#7C3AED" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="5s" begin="1.8s" repeatCount="indefinite"/>
+        </rect>
+        <text x="696.15" y="496" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">AWS</text>
+      </g>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="4.7s" dur="0.4s" fill="freeze"/>
+        <rect x="729.0999999999999" y="478" width="47.9" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#22D3EE" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3s" begin="2s" repeatCount="indefinite"/>
+        </rect>
+        <text x="753.05" y="496" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">Git</text>
+      </g>
+<g class="pill" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="4.78s" dur="0.4s" fill="freeze"/>
+        <rect x="785.9999999999999" y="478" width="62.5" height="27" rx="13.5" fill="rgba(255,255,255,0.04)" stroke="#10B981" stroke-opacity="0.45" stroke-width="1">
+          <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.5s" begin="2.2s" repeatCount="indefinite"/>
+        </rect>
+        <text x="817.25" y="496" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#F8FAFC">Figma</text>
+      </g>
+<rect x="500" y="502" width="604" height="1" fill="rgba(255,255,255,0.16)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="4.9s" dur="0.5s" fill="freeze"/>
+    </rect>
+<g class="soc" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="5.1s" dur="0.5s" fill="freeze"/>
+        <rect x="500" y="524" width="38" height="38" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,0.12);#22D3EE;rgba(255,255,255,0.12)" dur="4s" repeatCount="indefinite"/>
+        </rect>
+        <g transform="translate(511 535) scale(1)" fill="#22D3EE" filter="url(#glowSm)">
+          <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.05-.13-.36-.66.08-1.37 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44.71.13 1.24.08 1.37.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8 8 0 0016 8c0-4.42-3.58-8-8-8z"/>
+        </g>
+        <title>github.com/JerrySoPro</title>
+      </g>
+<g class="soc" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="5.26s" dur="0.5s" fill="freeze"/>
+        <rect x="554" y="524" width="38" height="38" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,0.12);#7C3AED;rgba(255,255,255,0.12)" dur="5s" repeatCount="indefinite"/>
+        </rect>
+        <g transform="translate(565 535) scale(1)" fill="#7C3AED" filter="url(#glowSm)">
+          <path d="M3.32 2.33a1.66 1.66 0 11-3.32 0 1.66 1.66 0 013.32 0zM.23 5.33h3.1V16H.23V5.33zm5 0h2.97v1.46h.04c.41-.78 1.42-1.6 2.93-1.6 3.13 0 3.71 2.06 3.71 4.73V16h-3.1v-4.73c0-1.13-.02-2.58-1.57-2.58-1.57 0-1.81 1.23-1.81 2.5V16h-3.1V5.33z"/>
+        </g>
+        <title>linkedin</title>
+      </g>
+<g class="soc" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="5.42s" dur="0.5s" fill="freeze"/>
+        <rect x="608" y="524" width="38" height="38" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,0.12);#F8FAFC;rgba(255,255,255,0.12)" dur="6s" repeatCount="indefinite"/>
+        </rect>
+        <g transform="translate(619 535) scale(1)" fill="#F8FAFC" filter="url(#glowSm)">
+          <path d="M12.6 0h2.45L9.7 6.13 16 16h-4.94l-3.87-5.06L2.73 16H.28l5.7-6.52L0 0h5.06l3.6 4.76L12.6 0zm-.86 14.53h1.36L4.32 1.4H2.86l8.88 13.13z"/>
+        </g>
+        <title>x / twitter</title>
+      </g>
+<g class="soc" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="5.58s" dur="0.5s" fill="freeze"/>
+        <rect x="662" y="524" width="38" height="38" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(255,255,255,0.12);#10B981;rgba(255,255,255,0.12)" dur="7s" repeatCount="indefinite"/>
+        </rect>
+        <g transform="translate(673 535) scale(1)" fill="#10B981" filter="url(#glowSm)">
+          <path d="M8 0a8 8 0 100 16A8 8 0 008 0zm0 1.5c1.02 0 2.2 1.9 2.6 4.5H5.4C5.8 3.4 6.98 1.5 8 1.5zM3.9 6c.16-1.26.5-2.4.98-3.3A6.55 6.55 0 002.06 6H3.9zm-2.3 1.5h2.16a17 17 0 000 3H1.6a6.5 6.5 0 010-3zm.46 4.5h1.83c.16 1.26.5 2.4.98 3.3A6.55 6.55 0 012.06 12zm3.34 0h5.2c-.4 2.6-1.58 4.5-2.6 4.5S5.8 14.6 5.4 12zm-.14-1.5a15 15 0 010-3h5.48a15 15 0 010 3H5.26zm6.86 1.5h1.83a6.55 6.55 0 01-2.81 3.3c.48-.9.82-2.04.98-3.3zm.29-1.5a17 17 0 000-3h2.16a6.5 6.5 0 010 3h-2.16zM12.12 6c-.16-1.26-.5-2.4-.98-3.3A6.55 6.55 0 0113.94 6h-1.82z"/>
+        </g>
+        <title>rakibs.codes</title>
+      </g>
+<text x="1104" y="548" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" fill="#64748B" opacity="0">
+      github.com/JerrySoPro
+      <animate attributeName="opacity" from="0" to="1" begin="5.6s" dur="0.6s" fill="freeze"/>
+    </text>
+</g>
+<rect x="452" y="28" width="700" height="554" rx="18" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+<rect x="8" y="8" width="1164" height="594" rx="26" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
+<g clip-path="url(#clipCard)">
+      <rect x="8" y="8" width="1164" height="594" rx="26" fill="none" stroke="url(#shimmer)" stroke-width="1.6" opacity="0.9"/>
+    </g>
+</svg>
